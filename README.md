@@ -39,6 +39,9 @@ Exemplo: ./build/hello
 
 - tests/ → testes automatizados (em breve)
 
+🗺️ Roadmap (o que vem aí)
+
+Confira: docs/roadmap.md
 
 ### Projetos / Módulos
 
