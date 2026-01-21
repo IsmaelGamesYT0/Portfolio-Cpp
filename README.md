@@ -29,7 +29,7 @@ cmake --build build
 Depois do build, os executáveis ficam em build/ (varia conforme gerador).
 Exemplo: ./build/hello
 
-### Organização
+### Organização (Em breve!)
 
 - src/hello → programa inicial e testes rápidos
 
@@ -39,7 +39,6 @@ Exemplo: ./build/hello
 
 - tests/ → testes automatizados (em breve)
 
-- docs/ → anotações/roadmap
 
 ### Projetos / Módulos
 
@@ -48,10 +47,6 @@ Exemplo: ./build/hello
 - algorithms/: exemplos de implementação e explicação no código
 
 - data_structures/: implementações do zero, com comentários e cuidados
-
-### Roadmap
-
-- Confira: docs/roadmap.md
 
 ### Licença
 
