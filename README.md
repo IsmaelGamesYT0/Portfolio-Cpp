@@ -10,26 +10,26 @@ Este repositório é meu portfólio em **C++**, reunindo estudos e projetos prá
 
 ---
 
-## 📦 Como compilar (CMake)
+## 📦 Como compilar (CMake):
 
 ### Requisitos
 - CMake 3.16+
 - Compilador C++ (GCC/Clang/MSVC)
 - C++17+
 
-### Build (Linux/macOS/WSL)
+### Build (Linux/macOS/WSL):
 ```bash
 mkdir -p build
 cmake -S . -B build
 cmake --build build
 ```
 
-### Rodar
+### Rodar:
 
 Depois do build, os executáveis ficam em build/ (varia conforme gerador).
 Exemplo: ./build/hello
 
-### Organização (Em breve!)
+### Organização:
 
 - src/hello → programa inicial e testes rápidos
 
@@ -39,11 +39,11 @@ Exemplo: ./build/hello
 
 - tests/ → testes automatizados (em breve)
 
-🗺️ Roadmap (o que vem aí)
+🗺️ Roadmap (o que vem aí):
 
 Confira: src/hello/src/algorithms/src/data_structures/docs
 
-### Projetos / Módulos
+### Projetos / Módulos:
 
 - hello/: “Hello, world” + base de CLI
 
@@ -51,6 +51,6 @@ Confira: src/hello/src/algorithms/src/data_structures/docs
 
 - data_structures/: implementações do zero, com comentários e cuidados
 
-### Licença
+### Licença:
 
 Este projeto está sob a licença GNU 3.0. Veja:https://github.com/IsmaelGamesYT0/Portfolio-Cpp/blob/main/LICENSE
